@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\bin\Debug\net8.0\Api_Dot_Net.Application.deps.json
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\bin\Debug\net8.0\Api_Dot_Net.Application.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\bin\Debug\net8.0\Api_Dot_Net.Application.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\bin\Debug\net8.0\Api_Dot_Net.Domain.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\bin\Debug\net8.0\Api_Dot_Net.Domain.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\refint\Api_Dot_Net.Application.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\Api_Dot_Net.Application.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Application\obj\Debug\net8.0\ref\Api_Dot_Net.Application.dll

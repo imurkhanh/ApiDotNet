@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Infrastructure.deps.json
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Infrastructure.runtimeconfig.json
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Infrastructure.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Infrastructure.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Domain.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\bin\Debug\net8.0\Api_Dot_Net.Domain.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\refint\Api_Dot_Net.Infrastructure.dll
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.pdb
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\Api_Dot_Net.Infrastructure.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Api_Dot_Net\Api_Dot_Net.Infrastructure\obj\Debug\net8.0\ref\Api_Dot_Net.Infrastructure.dll
